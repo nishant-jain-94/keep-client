@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - stable
+notifications:
+  slack: theselftalk:EHiDWYYgq34Y172TrHTqA16W
+before_script:
+  - npm install -g @angular/cli
+  - yarn install
+script:
+  - ng test --watch=false
