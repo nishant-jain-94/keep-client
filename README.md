@@ -1,6 +1,6 @@
 # KeepClient [![Build Status](https://travis-ci.org/nishant-jain-94/keep-client.svg?branch=master)](https://travis-ci.org/nishant-jain-94/keep-client)
 
-This Application as an interface to creates and view notes.
+This application acts as an interface to creates and view notes.
 
 ## Instructions
 
