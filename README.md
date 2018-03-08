@@ -6,7 +6,6 @@ This Application as an interface to creates and view notes.
 
 ```
 # Install all the dependencies
-
 yarn install
 
 # To Run application on development server
