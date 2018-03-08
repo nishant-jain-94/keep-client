@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - stable
+sudo: required
 notifications:
   slack: theselftalk:EHiDWYYgq34Y172TrHTqA16W
 before_script:
